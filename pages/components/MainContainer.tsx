@@ -14,7 +14,6 @@ export default function MainContainer({
   return (
     <>
       <Head>
-        <meta keywords={"nextjs, user list" + keywords}></meta>
         <title>Main page - NextJS</title>
       </Head>
       <nav className="bg-amber-500 text-white font-semibold flex gap-2.5 hover:pointer  p-2 ">
